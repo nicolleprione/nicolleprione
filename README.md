@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Nicolle Prione
 
-### 💻 Desenvolvedora em formação | Python • Django • Linux
+### 💻 Desenvolvedora em formação | Python • SQL • Linux
 
 *"Transformando aprendizado em projetos e desafios em oportunidades."*
 
