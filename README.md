@@ -33,17 +33,6 @@
 
 ---
 
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nicolleprione&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌎 Onde me encontrar
 
 <p align="center">
