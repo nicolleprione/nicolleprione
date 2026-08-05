@@ -6,7 +6,7 @@
 
 *"Transformando aprendizado em projetos e desafios em oportunidades."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+Back-end+em+Formação;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Back-end+em+Formação;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
 
 </div>
 
